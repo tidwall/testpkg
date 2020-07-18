@@ -1,4 +1,4 @@
 file hello.txt
 file fancy.txt         # comment
-file 404.txt           # this file does not exist
+# file 404.txt           # this file does not exist
 file inner/thing.txt
