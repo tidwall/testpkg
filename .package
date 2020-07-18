@@ -3,4 +3,4 @@ file fancy.txt         # comment
 # file 404.txt           # this file does not exist
 file inner/thing.txt
 
-import github.com/tidwall/testpkg 411a068 pkg2
+import github.com/tidwall/testpkg 411a068 pkg2/.package
