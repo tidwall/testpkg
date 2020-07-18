@@ -1,3 +1,3 @@
 file hello.txt
-file fancy.txt
+file fancy.txt #comment
 file inner/thing.txt
